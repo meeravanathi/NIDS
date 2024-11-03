@@ -3,12 +3,6 @@ pragma solidity ^0.8.0;
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol";
 
-/**
- * @title        Land
- * @author       K.Sowbharnika
- * Created       25.12.2020
- * Updated       24.05.2021
- */
 
 contract Lands is ERC721{
    
